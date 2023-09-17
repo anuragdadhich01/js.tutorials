@@ -59,5 +59,5 @@ handleObject({
 const myNewArray = [200,400,500,100]
 
 function returnSecondValue(getArray){
-    return
+    returnf
 }
