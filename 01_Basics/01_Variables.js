@@ -11,7 +11,7 @@ accountCity = "Delhi"
 
 console.log(accountId);
 
-console.table([accountId,accountEmail, accountPassword, accountCity,accountState]);
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
 
 /* prefer not to use var
 because of issues in block scope and funcatioinal scope
